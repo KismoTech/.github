@@ -21,3 +21,7 @@ and are proven in real projects such as [Crucible](https://github.com/CraigHutch
 Code moves into the platform once a second project needs it, with its tests and history.
 
 Commercial licensing for KismoEngine: open a *Commercial License Request* issue in its repository.
+
+How it fits together: [platform docs](https://github.com/KismoTech/.github/tree/main/docs) ·
+[repositories](https://github.com/KismoTech/.github/blob/main/docs/repositories.md) ·
+[who uses Sub0](https://github.com/CraigHutchinson/.github/blob/main/docs/users.md).
